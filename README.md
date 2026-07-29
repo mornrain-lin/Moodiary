@@ -104,6 +104,13 @@ cd Moodiary
 python3 -m http.server 8080
 ```
 
+## 👤 开发者 Author
+
+由 **Mornrain.lin** 打造 · Crafted by **Mornrain.lin**
+
+- 🌐 https://mornrain.com
+- 🌐 https://mornrain.cn
+
 ## 📜 许可证 License
 
-[MIT](LICENSE) © Moodiary contributors
+[MIT](LICENSE) © Mornrain.lin

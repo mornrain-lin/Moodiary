@@ -210,8 +210,7 @@ function toggleLang() {
 // ---------- 初始化 ----------
 function init() {
   // repo 链接与页脚
-  const repoUrl = "https://github.com";
-  el.repoLink.href = repoUrl;
+  el.repoLink.href = "https://github.com/mornrain-lin/Moodiary";
 
   initTheme();
   applyI18n();

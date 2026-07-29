@@ -224,6 +224,7 @@ h3 { font-size: 1.05rem; }
 .footer { display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: 6px 4px; color: var(--text-soft); font-size: 0.8rem; flex-wrap: wrap; }
 .footer-link { color: var(--primary); text-decoration: none; font-weight: 600; }
 .footer-link:hover { text-decoration: underline; }
+.footer-links { display: inline-flex; gap: 14px; align-items: center; }
 
 /* Toast */
 .toast {
