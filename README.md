@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mornrain-lin/Moodiary">🌐 Live Demo</a> ·
+  <a href="https://mornrain-lin.github.io/Moodiary/">🌐 Live Demo</a> ·
   <a href="https://github.com/mornrain-lin/Moodiary#-快速开始">🚀 快速开始</a> ·
   <a href="https://github.com/mornrain-lin/Moodiary/blob/main/LICENSE">MIT License</a>
 </p>
